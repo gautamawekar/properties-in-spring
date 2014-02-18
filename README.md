@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Configuration starting with Spring 3.1
 =========
 
@@ -41,3 +42,9 @@ Examples:
   
 * Use @Value : see UseValueConfig & UseValueConfigTest
 
+=======
+properties-in-spring
+====================
+
+Properties with Spring
+>>>>>>> ba235b966ac9450732288da191155bd2de7a7a64
