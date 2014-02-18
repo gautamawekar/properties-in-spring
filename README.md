@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Configuration starting with Spring 3.1
 =========
 
@@ -47,4 +46,3 @@ properties-in-spring
 ====================
 
 Properties with Spring
->>>>>>> ba235b966ac9450732288da191155bd2de7a7a64
